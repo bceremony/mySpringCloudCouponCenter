@@ -9,6 +9,7 @@ spring:
 #  application:
 #    # 定义项目名称
 #    name: coupon-calculation-serv
+
   cloud:
     nacos:
       discovery:
